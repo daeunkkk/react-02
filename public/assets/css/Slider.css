@@ -1,0 +1,33 @@
+.slider_inner{position: relative;}
+.prev {
+  position: absolute;
+  top: 40%;
+  left: 10px;
+  width: 40px;height: 40px;
+  color: #fff;
+}
+.next{
+  position: absolute;
+  top: 40%;
+  right: 10px;
+  color: #fff;
+}
+
+.slider_dot{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction:row; /*수평 정렬*/
+  align-items: center;
+  justify-content: center;}
+.slider_dot ul{position: absolute;bottom: 0;}
+.slider_dot ul li{display: inline-block;}
+.slider_dot ul li a{
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.796);
+  border: none;
+margin-bottom: 10px;}
+
+
+

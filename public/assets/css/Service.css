@@ -1,0 +1,58 @@
+.text_wrap{
+    height: 300px;
+    background: #fff;
+
+}
+
+
+.text_container{
+    display:flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.text_container .text01{
+    margin: 60px;
+    padding: 60px;
+    text-align: center;
+}
+
+.text_container .text01 span{
+    text-align: center;
+    background: #eee;
+    border-radius: 30px;
+    width: 100px; height: 30px;
+    display: inline-block;
+    line-height: 30px;
+}
+
+.text_container .text01 h2{
+    margin: 10px;
+}
+
+ .text_box1{
+  position: absolute;left:40%;top: 30px;
+
+;}
+ 
+    .text_box1>.text:nth-child(1){
+       margin-top: 50px;
+    }
+
+    .text_box1>.text:nth-child(2){
+        margin-top: 50px;
+    }
+
+    .text_box2{
+       
+        position: absolute;
+        right:10%;top: 30px;
+    }
+
+    .text_box2>.text:nth-child(1){
+        margin-top: 50px;
+     }
+ 
+     .text_box2>.text:nth-child(2){
+         margin-top: 50px;
+     }

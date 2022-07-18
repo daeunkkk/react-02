@@ -1,0 +1,22 @@
+.cont_6{
+    text-align: center;
+   }
+   .review_box{
+       display: flex;
+       justify-content: center;
+   }
+   .review_container h2{
+    margin-top: 20px;
+   
+   }
+   
+   .review_box {margin-top: 60px;}
+   .review_box>div{
+       margin: 0 30px;
+   }
+   .review_container>div a img{
+       width: 130px;
+       height: 130px;
+       padding-bottom: 20px;
+   }
+   

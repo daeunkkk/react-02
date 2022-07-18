@@ -1,0 +1,27 @@
+/* header */
+@import "./assets/css/Header.css";
+
+/* Slider */
+@import "./assets/css/Slider.css";
+
+/* Service */
+
+@import "./assets/css/Service.css";
+
+/* Brand */
+@import "./assets/css/Brand.css";
+
+/* Bestitem */
+@import "./assets/css/Bestitem.css";
+
+/* Intro */
+@import "./assets/css/Intro.css";
+
+/* Review */
+@import "./assets/css/Review.css";
+
+/* Footer */
+@import "./assets/css/Footer.css";
+
+/* reset */
+@import "./assets/css/reset.css";

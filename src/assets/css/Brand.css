@@ -1,0 +1,22 @@
+.New_brand{
+    text-align: center;
+    background:#eceff1;
+    }
+    .New_brand h2{font-size: 20px;
+    margin-top: 20px;
+    padding-top: 30px;}
+    .New_brand p{
+        margin:10px ;
+    }
+    .brand_imgbox{
+        height: 300px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .brand_imgbox>div a img{
+        width: 230px;
+        height: 234px;
+        padding: 10px;
+    }
+    

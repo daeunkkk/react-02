@@ -1,0 +1,26 @@
+
+.best_item{text-align: center;margin-top: 20px;
+margin-bottom: 50px;}
+
+.item_intro h2{
+    background: #000;
+    display: inline;
+    color: #fff;
+}
+.item_intro p{
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.item_wrrap{
+display: flex;
+justify-content: space-around;
+text-align: center;
+}
+
+.item_img>div a {
+    padding: 10px;
+}
+.item_img>div a img{
+ width: 150px;height: 150px;
+ padding-bottom: 20px;
+}
